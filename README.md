@@ -1,1 +1,3 @@
 # Heart_Analysis_Project
+
+# This project analyzed how lifestyle factors impact cardiovascular disease (CVD) mortality using data from a work-life balance ranking website and CVD mortality data. By applying statistical techniques, we discovered that key social aspects significantly influence #CVD mortality rates. Based on these results, we recommend actions for HR departments to improve employee health and work satisfaction, such as promoting work-life balance, enhancing social support systems, and encouraging healthy lifestyle choices. These actions #can lead to reduced mortality rates, lower healthcare costs, and increased employee productivity and retention.
